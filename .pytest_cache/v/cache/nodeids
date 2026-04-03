@@ -1,0 +1,5 @@
+[
+  "apps/api/tests/test_compliance.py::test_compliance_fails_when_missing_required_sections",
+  "apps/api/tests/test_compliance.py::test_compliance_passes_with_full_report",
+  "apps/api/tests/test_score_engine.py::test_compute_geo_score_is_deterministic"
+]
